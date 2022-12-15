@@ -12,6 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "dotenv": "^8.2.0",
     "html-react-parser": "^0.10.3",
+    "node-sass": "^8.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
@@ -40,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^4.0.3"
   }
 }
